@@ -1,0 +1,14 @@
+production:
+  adapter: postgresql
+  database: slothbnb
+  host: localhost
+  
+development:
+  adapter: postgresql
+  database: slothbnb
+  host: localhost
+  
+test:
+  adapter: postgresql
+  database: slothbnb_test
+  host: localhost
